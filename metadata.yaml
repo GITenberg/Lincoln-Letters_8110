@@ -1,5 +1,8 @@
 _repo: Lincoln-Letters_8110
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lincoln, Abraham
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8110#Lincoln-Letters
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
